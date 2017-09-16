@@ -2,6 +2,6 @@
 <resources>
     <!--Normal value for material design-->
     <dimen name="h1">24sp</dimen>
-    <dimen name="h2">18</dimen>
+    <dimen name="h2">18sp</dimen>
     <dimen name="image">200dp</dimen>
 </resources>
