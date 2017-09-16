@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Normal value for material design-->
+    <dimen name="h1">24sp</dimen>
+    <dimen name="h2">18</dimen>
+    <dimen name="image">200dp</dimen>
+</resources>
